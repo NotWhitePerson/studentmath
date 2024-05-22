@@ -19,3 +19,8 @@ VG Dolgozat menete:
 	-Nugetek:
 		Microsoft.EntityFrameworkCore
 	-Project Reference->ClassLibrary
+
+
+
+
+-InputFile .\systemlog.csv  <--- ide jön a fájl neve 
